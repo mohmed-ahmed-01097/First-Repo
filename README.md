@@ -1,7 +1,7 @@
 # Embedded System Deploma 
 ---
 [Embedded System](https://github.com/mohmed-ahmed-01097/test_repo/edit/main/README.md#introduction-to-embedded-system--) 
-[![image](https://github.com/Mina-Karam/Master_Embedded_Systems/blob/master/Certification.png)]()
+[![image]()]()
 ---
 
 
@@ -40,7 +40,7 @@ i = 50;
 
 ## Overall progress ![image](https://progress-bar.dev/2/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
 
-[![image](https://github.com/Mina-Karam/Master_Embedded_Systems/blob/master/Certification.png)](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
+[![image]( )
 
 ---
 
