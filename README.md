@@ -1,79 +1,47 @@
-# Embedded System Deploma 
----
-[Embedded System](https://github.com/mohmed-ahmed-01097/test_repo/edit/main/README.md#introduction-to-embedded-system--) 
-[![image]()]()
----
 
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
----
+<h3 align="center">
+  Welcome to mohmed-ahmed-01097 profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-ex:
-///
-int i;
-i = 50;
-///
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20SW%20Engineer;Always%20learning%20new%20things&font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&theme=react"></a>
+</p> 
 
-## Contents
+- 🏢 I'm a Embedded SW Engineer
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, CSS3, Html5, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-### Introduction to Embedded System ![image](https://progress-bar.dev/50/?title=Loading&color=ff00ff)
+## 📜 Repos
 
-- [Unit 1: Diploma Prerequisites](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
-- [Unit 2: C Programming](test) ![image](https://progress-bar.dev/100/?scale=3&title=Terms&suffix=&width=230&color=ff00ff)
-- [Unit 3: Embedded C](Unit_3_Embedded_C) ![image](https://progress-bar.dev/100/)
+<div align="left">
+  <a href="https://github.com/mohmed-ahmed-01097/C_Examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=C_Examples&theme=react&hide_border=true&show_icons=false" alt="C Examples" /></a>
+  <a href="https://github.com/mohmed-ahmed-01097/MCU_Drivers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=MCU_Drivers&theme=react&hide_border=true&show_icons=false" alt="MCU_Drivers" /></a>
+  <a href="https://github.com/mohmed-ahmed-01097/C_Examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=C_Examples&theme=react&hide_border=true&show_icons=false" alt="C Examples" /></a>
+</div>
 
----
+## 📈 Stats
 
-### Second Term ![image](https://progress-bar.dev/100/?title=Done)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmed-ahmed-01097&theme=react&hide_border=true" alt="MAAM's github stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmed-ahmed-01097&theme=react&hide_border=true&layout=demo" alt="MAAM's top languages"/></a>
 
-- [Unit 6: MCU Fundamentals](Unit_6_MCU_Fundamentals) ![image](https://progress-bar.dev/100/)
-- [Unit 11: Apply on Embedded Systems Jobs](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=Exams&color=bababa)
+### 📈 GitHub activity graph:
+[![MAAM's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohmed-ahmed-01097&theme=react&font=Fira+Code)](https://github.com/kaustubh43/github-readme-activity-graph)
 
----
+### 🛠 &nbsp;Tech Stack
+![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C)&nbsp;
+![Embedded C](https://img.shields.io/badge/-EmbeddedC-05122A?style=flat&logo=EmbeddedC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=331177)&nbsp;
 
-### Third Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff0000)
-
-- [Unit 12: Advanced Topics](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-
----
-![332662675_904583573992837_3208546547715289825_n](https://user-images.githubusercontent.com/54512541/220780911-735e4506-a854-4d0c-bece-a16b3135528d.jpg)
-
-
-## Overall progress ![image](https://progress-bar.dev/2/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
-
-[![image]( )
-
----
-
-## My Progress Profile: [Click Here](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
-
----
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
-![Algorithm schema](./images/schema.jpg)
-## Code Examples
-To generate lorem ipsum use special shortcode: `put-your-code-here`
-## Sources
-This app is inspired by Rando Kim book „Time of Your Life”
-and Android app tutorial by [@eericon](https://www.eericon.github.io/post/timer-android)
-https://github.com/user/repo-name#header-name
+### Connect with Me :
+<a href="mailto:mohmedahmed01097@gmail.com"><img src="https://img.shields.io/badge/-Mohamed%20Ahmed-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+<a href="https://www.linkedin.com/in/mohamedahmed01097/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/mohmedahmed01097" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ahmed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://komarev.com/ghpvc/?username=mohmed-ahmed-01097&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=mohmed-ahmed-01097&style=for-the-badge"></a>
